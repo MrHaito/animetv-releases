@@ -1,0 +1,26 @@
+AnimeTV: компоненты и лицензии
+
+Канал сборок: https://github.com/MrHaito/animetv-releases
+
+AndroidX, Media3, WorkManager, Kotlin, kotlinx.coroutines и Google Guava
+используются на условиях Apache License 2.0. Авторские права принадлежат
+соответствующим участникам Android Open Source Project, Google и JetBrains.
+
+Нативные компоненты io.github.peerless2012:ass, ass-kt, ass-media 0.5.1:
+- libass-android: MIT, Copyright (c) 2025 peerless2012.
+- libass: ISC.
+- FriBidi: GNU LGPL 2.1 или более поздняя версия.
+- FreeType: FreeType License (FTL). Portions of this software are copyright
+  The FreeType Project (www.freetype.org). All rights reserved.
+- HarfBuzz, Fontconfig, Expat и dlg: лицензии и уведомления из исходников.
+- libunibreak: zlib-style license.
+- Android libc++: Apache 2.0 с исключениями LLVM.
+
+Полные тексты лицензий включены в assets/licenses этого APK и LICENSES.zip
+в релизе. Исходники нативных компонентов, включая вложенные зависимости,
+поставляются в native-corresponding-source-0.5.1.zip в том же релизе.
+Коммиты перечислены в SOURCE_REVISIONS.txt.
+
+Компоненты можно модифицировать и заменять согласно их лицензиям.
+Ограничений на обратную разработку для отладки таких изменений не добавлено.
+Исходники самого приложения в этом репозитории не публикуются.

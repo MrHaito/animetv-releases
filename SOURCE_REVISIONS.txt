@@ -1,0 +1,10 @@
+libass-android v0.5.1 504f64a325059ab5188c4c9d0eddc99c9356a23a
+ d3f00a43ca66e42a2c34de964b1a7dbbfa9dbc8b lib_ass/src/main/cpp/libass-cmake (d3f00a4)
+ bbb3c7f1570a4a021e52683f3fbdf74fe492ae84 lib_ass/src/main/cpp/libass-cmake/src/ass (bbb3c7f)
+ f9a3eeb3e09fbea04b1c451ffc422ab2f1e45744 lib_ass/src/main/cpp/libass-cmake/src/expat (f9a3eeb)
+ daa175d234b8a362eedd4c18c33537cc2d19cd98 lib_ass/src/main/cpp/libass-cmake/src/fontconfig (daa175d)
+ 42608f77f20749dd6ddc9e0536788eaad70ea4b5 lib_ass/src/main/cpp/libass-cmake/src/freetype (42608f7)
+ 72dfcc858c040c54a6a0b88fcb7e70ee186d3167 lib_ass/src/main/cpp/libass-cmake/src/freetype/subprojects/dlg (72dfcc8)
+ 68162babff4f39c4e2dc164a5e825af93bda9983 lib_ass/src/main/cpp/libass-cmake/src/fribidi (68162ba)
+ c3fcbffa651cea70400552f2a8bd695ad11023c1 lib_ass/src/main/cpp/libass-cmake/src/harfbuzz (c3fcbff)
+ 304585d8e2d63187507368d612c3d5fff1486368 lib_ass/src/main/cpp/libass-cmake/src/unibreak (304585d)
